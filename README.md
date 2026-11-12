@@ -6,7 +6,7 @@ Features: draw 1 or 3, undo, drag or tap to move, double-tap to send a card to t
 
 ## Download
 
-Get the APK from the [latest release](https://github.com/jmanera/solitario/releases/latest) and open it on the device (allow installing from your browser when Android asks).
+Download [`dist/solitario-1.0.0.apk`](https://github.com/jmanera/solitario/raw/main/dist/solitario-1.0.0.apk) and open it on the device (allow installing from your browser when Android asks).
 
 ## Build
 
